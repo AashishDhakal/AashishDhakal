@@ -134,6 +134,6 @@
 
 <!-- links -->
 
-[Tech Timalaya]: https://github.com/techhimalayanp "Tech Himalaya Github Home"
+[Tech Himalaya]: https://github.com/techhimalayanp "Tech Himalaya Github Home"
 [issues page]: https://github.com/AashishDhakal/AashishDhakal/issues "AashishDhakal/issues"
 [linkedin]: https://www.linkedin.com/in/aashish-dhakal "Jacob Colvin LinkedIn"
