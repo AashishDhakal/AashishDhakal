@@ -18,7 +18,7 @@ When I'm not coding, you'll find me hiking in the Himalayas or advocating for su
 - 💬 Ask me about **Python**, **DevOps**, and **FOSS**
 - 📝 Have a question? Ask me on my [GitHub issues page](https://github.com/AashishDhakal/AashishDhakal/issues)
 
-## 🌟 Open Source Projects
+## 🌟 Major Open Source Projects and Contributions
 
 <table>
   <thead align="center">
